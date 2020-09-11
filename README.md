@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andre</h1>
+<h1 align="center">Hi, I'm Andre</h1>
 <h3 align="center">A passionate developer from Amsterdam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andremoens" alt="andremoens" /> </p>
